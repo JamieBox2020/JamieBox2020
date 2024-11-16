@@ -22,10 +22,12 @@
 
 **Language**
 
-<img src="./assets/vue.png" width="30" alt="Vue">
-<img src="./assets/sass.png" width="30" alt="Sass">
-<img src="./assets/javascript.png" width="30" alt="JavaScript">
-<img src="./assets/webpack.png" width="30" alt="Webpack">
-<img src="./assets/bootstrap.png" width="30" alt="BootStrap">
-<img src="./assets/git.png" width="30" alt="Git">
-<img src="./assets/vscode.png" width="30" alt="VSCode">
+<p>
+  <img src="./assets/vue.png" width="30" alt="Vue">
+  <img src="./assets/sass.png" width="30" alt="Sass">
+  <img src="./assets/javascript.png" width="30" alt="JavaScript">
+  <img src="./assets/webpack.png" width="30" alt="Webpack">
+  <img src="./assets/bootstrap.png" width="30" alt="BootStrap">
+  <img src="./assets/git.png" width="30" alt="Git">
+  <img src="./assets/vscode.png" width="30" alt="VSCode">
+</p>
