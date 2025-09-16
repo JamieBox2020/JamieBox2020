@@ -16,9 +16,9 @@
 
 **About**
 
-- ❤️ A FrontEnd developer with 2 years of experience in Anhui.
-- 🚀 Enjoy exploring the latest technologies and applying them.
-- 🎯 To become a FullStack developer in the future.
+- ❤️ A front-end developer with 2 years of experience, based in Anhui.
+- 🚀 Enjoy exploring the latest technologies and applying them in projects.
+- 🎯 Aspire to become a full-stack developer in the future.
 
 **Language**
 
